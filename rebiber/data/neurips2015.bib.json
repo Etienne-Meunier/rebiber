@@ -1,0 +1,30 @@
+{
+  "simoneviewinvarianttemporallyabstractedobjectrepresentationsviaunsupervisedvideodecomposition": [
+    "@inproceedings{DBLP:conf/nips/KabraZEMCBLB21,\n",
+    "  author       = {Rishabh Kabra and\n",
+    "                  Daniel Zoran and\n",
+    "                  Goker Erdogan and\n",
+    "                  Loic Matthey and\n",
+    "                  Antonia Creswell and\n",
+    "                  Matt M. Botvinick and\n",
+    "                  Alexander Lerchner and\n",
+    "                  Christopher P. Burgess},\n",
+    "  editor       = {Marc'Aurelio Ranzato and\n",
+    "                  Alina Beygelzimer and\n",
+    "                  Yann N. Dauphin and\n",
+    "                  Percy Liang and\n",
+    "                  Jennifer Wortman Vaughan},\n",
+    "  title        = {SIMONe: View-Invariant, Temporally-Abstracted Object Representations\n",
+    "                  via Unsupervised Video Decomposition},\n",
+    "  booktitle    = {Advances in Neural Information Processing Systems 34: Annual Conference\n",
+    "                  on Neural Information Processing Systems 2021, NeurIPS 2021, December\n",
+    "                  6-14, 2021, virtual},\n",
+    "  pages        = {20146--20159},\n",
+    "  year         = {2021},\n",
+    "  url          = {https://proceedings.neurips.cc/paper/2021/hash/a860a7886d7c7e2a8d3eaac96f76dc0d-Abstract.html},\n",
+    "  timestamp    = {Tue, 03 May 2022 01:00:00 +0200},\n",
+    "  biburl       = {https://dblp.org/rec/conf/nips/KabraZEMCBLB21.bib},\n",
+    "  bibsource    = {dblp computer science bibliography, https://dblp.org}\n",
+    "}\n"
+  ]
+}

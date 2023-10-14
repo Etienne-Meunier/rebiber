@@ -1,0 +1,40 @@
+{
+  "generatingphysicallysoundtrainingdataforimagerecognitionofadditivelymanufacturedparts": [
+    "@inproceedings{DBLP:conf/wacv/NickchenHE21,\n",
+    "  author       = {Tobias Nickchen and\n",
+    "                  Stefan Heindorf and\n",
+    "                  Gregor Engels},\n",
+    "  title        = {Generating Physically Sound Training Data for Image Recognition of\n",
+    "                  Additively Manufactured Parts},\n",
+    "  booktitle    = {{IEEE} Winter Conference on Applications of Computer Vision, {WACV}\n",
+    "                  2021, Waikoloa, HI, USA, January 3-8, 2021},\n",
+    "  pages        = {1993--2001},\n",
+    "  publisher    = {{IEEE}},\n",
+    "  year         = {2021},\n",
+    "  url          = {https://doi.org/10.1109/WACV48630.2021.00204},\n",
+    "  doi          = {10.1109/WACV48630.2021.00204},\n",
+    "  timestamp    = {Mon, 26 Jun 2023 01:00:00 +0200},\n",
+    "  biburl       = {https://dblp.org/rec/conf/wacv/NickchenHE21.bib},\n",
+    "  bibsource    = {dblp computer science bibliography, https://dblp.org}\n",
+    "}\n"
+  ],
+  "chesspiecerecognitionusingorientedchamfermatchingwithacomparisontocnn": [
+    "@inproceedings{DBLP:conf/wacv/XieTH18,\n",
+    "  author       = {Youye Xie and\n",
+    "                  Gongguo Tang and\n",
+    "                  William A. Hoff},\n",
+    "  title        = {Chess Piece Recognition Using Oriented Chamfer Matching with a Comparison\n",
+    "                  to {CNN}},\n",
+    "  booktitle    = {2018 {IEEE} Winter Conference on Applications of Computer Vision,\n",
+    "                  {WACV} 2018, Lake Tahoe, NV, USA, March 12-15, 2018},\n",
+    "  pages        = {2001--2009},\n",
+    "  publisher    = {{IEEE} Computer Society},\n",
+    "  year         = {2018},\n",
+    "  url          = {https://doi.org/10.1109/WACV.2018.00221},\n",
+    "  doi          = {10.1109/WACV.2018.00221},\n",
+    "  timestamp    = {Fri, 24 Mar 2023 00:00:00 +0100},\n",
+    "  biburl       = {https://dblp.org/rec/conf/wacv/XieTH18.bib},\n",
+    "  bibsource    = {dblp computer science bibliography, https://dblp.org}\n",
+    "}\n"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "simplestochasticandonlinegradientdescentalgorithmsforpairwiselearning": [
+    "@inproceedings{DBLP:conf/nips/YangLWYY21,\n",
+    "  author       = {Zhenhuan Yang and\n",
+    "                  Yunwen Lei and\n",
+    "                  Puyu Wang and\n",
+    "                  Tianbao Yang and\n",
+    "                  Yiming Ying},\n",
+    "  editor       = {Marc'Aurelio Ranzato and\n",
+    "                  Alina Beygelzimer and\n",
+    "                  Yann N. Dauphin and\n",
+    "                  Percy Liang and\n",
+    "                  Jennifer Wortman Vaughan},\n",
+    "  title        = {Simple Stochastic and Online Gradient Descent Algorithms for Pairwise\n",
+    "                  Learning},\n",
+    "  booktitle    = {Advances in Neural Information Processing Systems 34: Annual Conference\n",
+    "                  on Neural Information Processing Systems 2021, NeurIPS 2021, December\n",
+    "                  6-14, 2021, virtual},\n",
+    "  pages        = {20160--20171},\n",
+    "  year         = {2021},\n",
+    "  url          = {https://proceedings.neurips.cc/paper/2021/hash/a87d27f712df362cd22c7a8ef823e987-Abstract.html},\n",
+    "  timestamp    = {Tue, 03 May 2022 01:00:00 +0200},\n",
+    "  biburl       = {https://dblp.org/rec/conf/nips/YangLWYY21.bib},\n",
+    "  bibsource    = {dblp computer science bibliography, https://dblp.org}\n",
+    "}\n"
+  ]
+}

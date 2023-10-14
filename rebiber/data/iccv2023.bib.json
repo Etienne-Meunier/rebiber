@@ -1,0 +1,39 @@
+{
+  "computervisionandgraphicsproceedingsoftheinternationalconferenceoncomputervisionandgraphicsiccvgwarsawpolandseptember": [
+    "@proceedings{DBLP:conf/iccvg/2022,\n",
+    "  editor       = {Leszek J. Chmielewski and\n",
+    "                  Arkadiusz Orlowski},\n",
+    "  title        = {Computer Vision and Graphics - Proceedings of the International Conference\n",
+    "                  on Computer Vision and Graphics, {ICCVG} 2022, Warsaw, Poland, 19-21\n",
+    "                  September 2022},\n",
+    "  series       = {Lecture Notes in Networks and Systems},\n",
+    "  volume       = {598},\n",
+    "  publisher    = {Springer},\n",
+    "  year         = {2023},\n",
+    "  url          = {https://doi.org/10.1007/978-3-031-22025-8},\n",
+    "  doi          = {10.1007/978-3-031-22025-8},\n",
+    "  isbn         = {978-3-031-22024-1},\n",
+    "  timestamp    = {Fri, 17 Feb 2023 00:00:00 +0100},\n",
+    "  biburl       = {https://dblp.org/rec/conf/iccvg/2022.bib},\n",
+    "  bibsource    = {dblp computer science bibliography, https://dblp.org}\n",
+    "}\n"
+  ],
+  "aunifiedrollingshutterandmotionblurmodelfordvisualregistration": [
+    "@inproceedings{DBLP:conf/iccv/MeillandDC13,\n",
+    "  author       = {Maxime Meilland and\n",
+    "                  Tom Drummond and\n",
+    "                  Andrew I. Comport},\n",
+    "  title        = {A Unified Rolling Shutter and Motion Blur Model for 3D Visual Registration},\n",
+    "  booktitle    = {{IEEE} International Conference on Computer Vision, {ICCV} 2013, Sydney,\n",
+    "                  Australia, December 1-8, 2013},\n",
+    "  pages        = {2016--2023},\n",
+    "  publisher    = {{IEEE} Computer Society},\n",
+    "  year         = {2013},\n",
+    "  url          = {https://doi.org/10.1109/ICCV.2013.252},\n",
+    "  doi          = {10.1109/ICCV.2013.252},\n",
+    "  timestamp    = {Thu, 23 Mar 2023 00:00:00 +0100},\n",
+    "  biburl       = {https://dblp.org/rec/conf/iccv/MeillandDC13.bib},\n",
+    "  bibsource    = {dblp computer science bibliography, https://dblp.org}\n",
+    "}\n"
+  ]
+}
